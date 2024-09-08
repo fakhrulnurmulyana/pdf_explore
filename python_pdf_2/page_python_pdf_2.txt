@@ -1,0 +1,32 @@
+{
+	'/Type': 
+		'/Page', 
+		'/Resources': { 
+				'/ProcSet': [
+						'/PDF', 
+						'/Text', 
+						'/ImageB', 
+						'/ImageC', 
+						'/ImageI'
+					    ], 
+				'/ExtGState': {
+						'/G3': IndirectObject(3, 0, 2127939746448), 
+						'/G10': IndirectObject(10, 0, 2127939746448)
+			      		      }, 
+				'/XObject': {
+						'/X4': IndirectObject(4, 0, 2127939746448), 
+						'/X8': IndirectObject(8, 0, 2127939746448), 
+						'/X11': IndirectObject(11, 0, 2127939746448), 
+						'/X12': IndirectObject(12, 0, 2127939746448), 
+						'/X13': IndirectObject(13, 0, 2127939746448), 
+						'/X14': IndirectObject(14, 0, 2127939746448)}, 
+						'/Font': {'/F6': IndirectObject(6, 0, 2127939746448), 
+						'/F7': IndirectObject(7, 0, 2127939746448), 
+						'/F9': IndirectObject(9, 0, 2127939746448), 
+						'/F15': IndirectObject(15, 0, 2127939746448)
+					    }
+			      }, 
+		'/MediaBox': [0, 0, 612, 792], 
+		'/Contents': IndirectObject(16, 0, 2127939746448), 
+		'/StructParents': 0, 
+		'/Parent': IndirectObject(115, 0, 2127939746448)}
