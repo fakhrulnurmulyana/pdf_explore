@@ -1,0 +1,55 @@
+Driver Perangkat dan Format Output dalam Ghostscript
+
+bbox: Menghasilkan bounding box dari dokumen.
+
+bit: Output bitmap (bit per pixel).
+
+bitcmyk: Output bitmap dengan model warna CMYK.
+
+bitrgb: Output bitmap dengan model warna RGB.
+
+bmp16: Output gambar bitmap dengan 16 warna.
+
+bmp16m: Output gambar bitmap dengan 16 juta warna (true color).
+
+bmp256: Output gambar bitmap dengan 256 warna.
+
+bmp32b: Output gambar bitmap dengan 32 bit color depth.
+
+bmpgray: Output gambar bitmap dalam skala abu-abu.
+
+bmpmono: Output gambar bitmap monokrom (hitam-putih).
+
+bmpsep1: Output gambar bitmap dengan satu channel separasi.
+
+bmpsep8: Output gambar bitmap dengan 8 channel separasi.
+
+cdj500, cdj550: Driver untuk printer HP DeskJet 500 dan 550.
+
+cljet5: Driver untuk printer Color LaserJet 5.
+
+eps2write: Output gambar dalam format EPS (Encapsulated PostScript) versi 2.
+
+eps9high, eps9mid: Output gambar dalam format EPS versi 9 dengan kualitas tinggi atau menengah.
+
+jpeg: Output gambar dalam format JPEG.
+
+jpegcmyk: Output gambar JPEG dengan model warna CMYK.
+
+jpeggray: Output gambar JPEG dalam skala abu-abu.
+
+laserjet: Driver untuk printer laser HP.
+
+pdfwrite: Driver untuk menghasilkan file PDF dari PostScript.
+
+png16, png256, pnggray: Output gambar dalam format PNG dengan berbagai kedalaman warna dan skala abu-abu.
+
+ps2write: Output dalam format PostScript versi 2.
+
+tiff12nc, tiff24nc: Output gambar dalam format TIFF dengan 12-bit atau 24-bit color depth, tanpa kompresi.
+
+tiffgray: Output gambar TIFF dalam skala abu-abu.
+
+txtwrite: Output teks dari file PostScript.
+
+xpswrite: Driver untuk menghasilkan file XPS (XML Paper Specification) dari PostScript.
